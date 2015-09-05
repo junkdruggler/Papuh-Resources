@@ -12,3 +12,8 @@ Papuh can be found in the playstore
   <img alt="Get it on Google Play"
        src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 </a>
+
+# Contributions
+
+Contributions can be made either two ways, pull requests or via our gerrit.
+Our gerrit can be found at http://gerrit.dirtyunicorns.com
