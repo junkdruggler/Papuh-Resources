@@ -1,0 +1,35 @@
+{ 
+"favorite_walls": 
+	[ 
+		{
+			"author": "Unknown",
+			"url": "http://i.imgur.com/hNTdL9i.jpg",
+			"name": "Wallpaper 1"
+		},
+		{
+			"author": "Unknown",
+			"url": "http://i.imgur.com/WI8MO17.jpg",
+			"name": "Wallpaper 2"
+		},
+		{
+			"author": "Unknown",
+			"url": "http://i.imgur.com/0oWCez8.jpg",
+			"name": "Wallpaper 3"
+		},
+		{
+			"author": "Unknown",
+			"url": "http://i.imgur.com/7dPkTFY.jpg",
+			"name": "Wallpaper 4"
+		},
+		{
+			"author": "Unknown",
+			"url": "http://i.imgur.com/4LSbR0k.jpg",
+			"name": "Wallpaper 5"
+		},
+		{
+			"author": "Unknown",
+			"url": "http://i.imgur.com/oK02Nt7.jpg",
+			"name": "Wallpaper 6"
+		}
+	]
+}
