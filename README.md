@@ -1,5 +1,4 @@
 # Papuh-Resources
-
 Papuh was created by Alex Cruz to not only provide a central location for all his wallpapers but also to easily update them for those that use them.
 
 That said, this is the purpose of this repo. To provide the wallpaper json to easily update them and have people contribute to them.
@@ -14,6 +13,5 @@ Papuh can be found in the playstore
 </a>
 
 # Contributions
-
 Contributions can be made either two ways, pull requests or via our gerrit.
 Our gerrit can be found at http://gerrit.dirtyunicorns.com
