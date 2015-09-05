@@ -8,3 +8,9 @@ Also for translators that wish to translate Papuh to their native language :-)
 
 Papuh can be found in the playstore
 https://play.google.com/store/apps/details?id=com.alexcruz.papuh
+
+It's also on Google Play:
+<a href="https://play.google.com/store/apps/details?id=com.alexcruz.papuh">
+  <img alt="Get it on Google Play"
+       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+</a>
