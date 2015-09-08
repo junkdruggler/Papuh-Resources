@@ -1,0 +1,48 @@
+{ 
+"slim_walls": 
+	[ 
+		{
+			"author": "Cristian Giordano",
+			"url": "http://i.imgur.com/ZIV4H5a.jpg",
+			"name": "Wallpaper 1"
+		},
+                {
+                        "author": "Cristian Giordano",
+                        "url": "http://i.imgur.com/KZUq3zE.jpg",
+                        "name": "Wallpaper 2"
+                },
+                {
+                        "author": "Cristian Giordano",
+                        "url": "http://i.imgur.com/xneHOJR.jpg",
+                        "name": "Wallpaper 3"
+                },
+                {
+                        "author": "Cristian Giordano",
+                        "url": "http://i.imgur.com/j0WJ29T.jpg",
+                        "name": "Wallpaper 4"
+                },
+                {
+                        "author": "Cristian Giordano",
+                        "url": "http://i.imgur.com/tqICaLY.jpg",
+                        "name": "Wallpaper 5"
+                },
+                {
+                        "author": "Cristian Giordano",
+                        "url": "http://i.imgur.com/ZBNNgmo.jpg",
+                        "name": "Wallpaper 6"
+                },
+                {
+                        "author": "Cristian Giordano",
+                        "url": "http://i.imgur.com/myRXRB5.jpg",
+                        "name": "Wallpaper 7"
+                },
+                {
+                        "author": "Cristian Giordano",
+                        "url": "http://i.imgur.com/c8KYBRi.jpg",
+                        "name": "Wallpaper 8"
+                }
+	]
+}
+
+
+
