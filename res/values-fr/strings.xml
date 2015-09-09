@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Main -->
+    <string name="app_dev_name">par Alex Cruz</string>
+    <string name="title">Papuh Walls</string>
+    <string name="gplus_join">REJOINDRE</string>
+    <string name="ratebtn">ÉVALUER</string>
+    <string name="description">Papuh a été créé par Alex Cruz, non seulement pour regrouper ses fonds d\'écran, mais aussi pour que les utilisateurs puissent les mettre à jour facilement. Cette application a été développée en utilisant des bibliothèques et des contributions open source.</string>
+    <string name="play_card_title">Papuh Walls sur Google Plus</string>
+    <string name="play_card_content">Rejoignez la communauté Papuh Walls pour obtenir de l\'aide et échanger</string>
+    <string name="section_home">Accueil</string>
+    <string name="section_fav_walls">Tous les fonds d\'écran</string>
+    <string name="section_original_walls">Fonds d\'écran originaux</string>
+    <string name="section_solid_walls">Fonds d\'écran unis</string>
+    <string name="section_rom_category">ROMS</string>
+    <string name="section_aboutapp">À propos de Papuh Walls</string>
+    <string name="changelog">Changements</string>
+    <string name="changelog_dialog_title">Changements &#38; Infos</string>
+
+    <!-- License check / Dialog / Muzei -->
+    <string name="license_failed">Vous n\'êtes pas en train de télécharger notre paquet d\'icônes depuis le Google Play Store. Vous avez seulement deux options :</string>
+    <string name="license_success">Merci d\'avoir acheté notre incroyable paquet d\'icônes. Si vous appréciez ce paquet d\'icônes, n\'oubliez pas de l\'évaluer et de laisser un commentaire sur le Google Play Store.</string>
+    <string name="walls_save_location">/Papuh/Wallpapers/</string>
+    <string name="walls_prefix_name">Papuh_</string>
+    <string name="artsource_name">Papuh Walls</string>
+    <string name="artsource_desc">Material, Nature, Espace, Spirituel... Cherchez-le, nous l\'avons !</string>
+    <string name="muzei_settings">Paramètres Muzei</string>
+    <string name="gplus">GOOGLE+</string>
+    <string name="github">SOURCE</string>
+    <string name="title_activity_detailed_wallpaper">Galerie</string>
+    <string name="title_ab_detailed_wallpaper">""</string>
+    <string name="set_as">Application du fond d\'écran en cours...</string>
+    <string name="set_wall_title">Fond d\'écran appliqué</string>
+    <string name="set_wall_content">Êtes-vous sûr de vouloir appliquer ce fond d\'écran ?</string>
+    <string name="no">Non</string>
+    <string name="yes">Oui</string>
+    <string name="save">Enregistrer</string>
+    <string name="apply">Appliquer</string>
+    <string name="crop">Rogner</string>
+    <string name="done">OK</string>
+    <string name="error">Oops !</string>
+    <string name="wall_error">Une erreur est survenue : absence d\'image. Vérifiez votre connexion Internet et ré-essayez.</string>
+    <string name="download_done">Téléchargement réussi. L\'image est enregistrée dans </string>
+    <string name="json_error_toast">Une erreur est survenue pendant le téléchargement des informations du fond d\'écran. Ré-essayez plus tard.</string>
+    <string name="share_wall">Partager le fond d\'écran</string>
+    <string name="partone">Mon fond d\'écran pour aujourd\'hui est </string>
+    <string name="parttwo"> par </string>
+    <string name="partthree"> de </string>
+    <string name="partfour">.\n</string>
+    <string name="partfive">Téléchargez-le sur </string>
+    <string name="dismiss">Annuler</string>
+    <string name="close">Fermer</string>
+    <string name="building_request">Préparation de la demande en cours</string>
+    <string name="submit">Soumettre</string>
+    <string name="googleplus">Google+</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="advice">Conseil</string>
+    <string name="dontshow">Ne plus afficher</string>
+    <string name="request_advice">Si vous ne sélectionnez aucune application pour votre demande d\'icône, votre demande sera automatiquement générée avec les icône de toutes vos applications.</string>
+    <string name="no_conn_title">Aucune connexion Internet détectée</string>
+    <string name="no_conn_content">Les fonds d\'écran sont stockés sur Internet. Veuillez vous connecter à Internet et ré-essayez.</string>
+    <string name="progress_dialog_title">Téléchargement du fond d\'écran en cours</string>
+    <string name="setting_wall_title">Application du fond d\'écran en cours</string>
+    <string name="please_wait">Patientez…</string>
+    <string name="set_as_wall_done">Fond d\'écran appliqué</string>
+    <string name="retry">Ré-essayer</string>
+    <string name="ok">OK</string>
+    <string name="download">Téléchargement</string>
+    <string name="license_check">Vérification de la licence</string>
+    <string name="license_failed_title">Vérification de la licence échouée</string>
+    <string name="license_success_title">Licence vérifiée</string>
+    <string name="exit">Quitter</string>
+    <string name="get_app_button">Obtenir l\'application</string>
+    <string name="installed">Installé</string>
+    <string name="noninstalled">Pas installé</string>
+    <string name="muzeisets_title">Actualiser la source toutes les :</string>
+    <string name="minutes">Minutes</string>
+    <string name="hours">Heures</string>
+    <string name="muzei_info">Note : Ce paramètre agit aussi sur la durée d\'actualisation des informations des fonds d\'écran.</string>
+    <string name="justshare">Partager</string>
+
+    <!--- About Papuh -->
+    <string name="dashboard_author">Attribution des crédits à...</string>
+    <string name="dashboard_author_desc">
+        <![CDATA[
+        Le <b>Dashboard App</b> utilisé comme base a été développé par <b>Jahir Fiquitiva</b> :" passionné de création graphique et de développement Android.<br><br>Collaborateurs : Aidan Follestad et Joaquin Cuitiño.<br>
+        ]]>
+    </string>
+    <string name="copyright">Copyright© 2015.
+Publié sous licence MIT.</string>
+    <string name="apache_license">Publié sous licence Apache 2.0.</string>
+    <string name="mit_license">Publié sous licence MIT.</string>
+    <string name="libs_section_title">Bibliothèques FOSS utilisées :</string>
+    <string name="fab_desc">
+		<![CDATA[
+        <b>Floating Action Button</b> est une autre bibliothèque pour la conception Material.
+        ]]></string>
+    <string name="materialdialogs_desc">
+		<![CDATA[
+        <b>Material Dialogs</b> est une API magnifique, "facile à utiliser", et personnalisable, permettant une intégration dans toutes les versions d\'Android de la conception Material.
+        ]]></string>
+    <string name="pkapplylauncher_desc">
+		<![CDATA[
+        <b>PkApplyLauncher</b> est un ensemble d\'outils permettant de faire des lanceurs beaucoup plus simples et organisés. Cette mini "bibliothèque" a été développée de manière à conserver un code le plus propre possible.
+        ]]></string>
+    <string name="pkrequestmanager_desc">
+		<![CDATA[
+        <b>PkRequestManager</b> est un outil utile, simple, facilitant les requêtes d\'ajout d\'icônes d\'application pour Android.
+        ]]></string>
+    <string name="shapeview_desc">
+		<![CDATA[
+		<b>Android Shape Image View</b> fournit un ensemble de composants d\'affichage des images et une structure de développement pour Android. Il implémente les masques d\'ombrage et bitmap en fonction de l\'affichage des images.
+		]]></string>
+    <string name="picasso_desc">
+        <![CDATA[
+        <b>Picasso</b> est une bibliothèque puissante gérant le téléchargement et la mise en cache d\'image pour Android.
+        ]]></string>
+    <string name="okhttp_desc">
+        <![CDATA[
+        <b>OkHttp</b> est un client HTTP et SPDY pour applications Android et Java.
+        ]]></string>
+    <string name="materialdrawer_desc">
+        <![CDATA[
+        La bibliothèque <b>MaterialDrawer</b> a pour objectif de fournir la meilleure implémentation de tiroir de navigation pour votre application.
+        ]]>
+    </string>
+
+</resources>
