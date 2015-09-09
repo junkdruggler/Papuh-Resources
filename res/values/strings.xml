@@ -2,13 +2,13 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Main -->
-    <string name="app_name">Papuh</string>
-    <string name="app_long_name">Papuh Walls v2.0</string>
+    <string name="app_name" translatable="false">Papuh</string>
+    <string name="app_long_name" translatable="false">Papuh Walls v2.0</string>
     <string name="app_dev_name">by Alex Cruz</string>
-    <string name="email_address">mazdarider23@gmail.com</string>
-    <string name="play_store_link">https://play.google.com/store/apps/details?id=com.alexcruz.papuh</string>
-    <string name="googleplus_link">https://plus.google.com/u/0/communities/117004088255020338497</string>
-    <string name="title">Papuh Walls</string>
+    <string name="email_address" translatable="false">mazdarider23@gmail.com</string>
+    <string name="play_store_link" translatable="false">https://play.google.com/store/apps/details?id=com.alexcruz.papuh</string>
+    <string name="googleplus_link" translatable="false">https://plus.google.com/u/0/communities/117004088255020338497</string>
+    <string name="title" translatable="false">Papuh Walls</string>
     <string name="gplus_join">JOIN</string>
     <string name="ratebtn">RATE</string>
     <string name="description">Papuh was created by Alex Cruz to not only provide a central location for all his wallpapers but also to easily update them for those that use them. This app was built using open source libraries and contributions to the open source community.</string>
@@ -44,8 +44,8 @@
     <!-- License check / Dialog / Muzei -->
     <string name="license_failed">You are not downloading our icon pack from Google Play Store. You have two options only:</string>
     <string name="license_success">Thank you for purchasing our awesome icon pack. If you like this icon pack, don\'t forget to Rate and Write a review at Google Play Store.</string>
-    <string name="walls_save_location">/Papuh/Wallpapers/</string>
-    <string name="walls_prefix_name">Papuh_</string>
+    <string name="walls_save_location" translatable="false">/Papuh/Wallpapers/</string>
+    <string name="walls_prefix_name" translatable="false">Papuh_</string>
     <string name="artsource_name">Papuh Walls</string>
     <string name="artsource_desc">Material, Nature, Space, Spiritual You name it we have it!</string>
     <string name="muzei_settings">Muzei Settings</string>
@@ -111,65 +111,65 @@
         This <b>Dashboard App</b> that was used for a base was developed by <b>Jahir Fiquitiva</b>:" Graphic Design and Android Development enthusiast.<br><br>Official collaborators: Aidan Follestad and Joaquin Cuitiño.<br>
         ]]>
     </string>
-    <string name="dev_link">https://github.com/jahirfiquitiva</string>
-    <string name="dev_gplus_link">https://plus.google.com/u/0/+JahirFiquitivaJDev</string>
+    <string name="dev_link" translatable="false">https://github.com/jahirfiquitiva</string>
+    <string name="dev_gplus_link" translatable="false">https://plus.google.com/u/0/+JahirFiquitivaJDev</string>
     <string name="copyright">Copyright© 2015.
 Licensed under MIT License.</string>
     <string name="apache_license">Licensed under Apache 2.0 License.</string>
     <string name="mit_license">Licensed under MIT License.</string>
     <string name="libs_section_title">Libraries FOSS projects Used:</string>
     <string name="fab_author">Future Simple - Melnykov</string>
-    <string name="fab_web">https://github.com/futuresimple/android-floating-action-button</string>
+    <string name="fab_web" translatable="false">https://github.com/futuresimple/android-floating-action-button</string>
     <string name="fab_name">Floating Action Button</string>
     <string name="fab_desc">
 		<![CDATA[
         <b>Floating Action Button</b> is yet another library for drawing Material Design promoted actions.
         ]]></string>
-    <string name="materialdialogs_author">Aidan Follestad</string>
-    <string name="materialdialogs_web">https://github.com/afollestad/material­dialogs</string>
+    <string name="materialdialogs_author" translatable="false">Aidan Follestad</string>
+    <string name="materialdialogs_web" translatable="false">https://github.com/afollestad/material­dialogs</string>
     <string name="materialdialogs_name">Material Dialogs</string>
     <string name="materialdialogs_desc">
 		<![CDATA[
         <b>Material Dialogs</b> is a beautiful, "easy-to-use", and customizable dialogs API,  to use Material design themed dialogs across all versions of Android.
         ]]></string>
-    <string name="pkapplylauncher_author">Pkmmte Xeleon</string>
-    <string name="pkapplylauncher_web">https://github.com/pkmmte/PkApplyLauncher</string>
+    <string name="pkapplylauncher_author" translatable="false">Pkmmte Xeleon</string>
+    <string name="pkapplylauncher_web" translatable="false">https://github.com/pkmmte/PkApplyLauncher</string>
     <string name="pkapplylauncher_name">PkApplyLauncher</string>
     <string name="pkapplylauncher_desc">
 		<![CDATA[
         <b>PkApplyLauncher</b> is a tool wrapper to make supporting launchers much simpler and organized. This mini "library" was developed to keep code as clean as possible while making perfect sense of it.
         ]]></string>
-    <string name="pkrequestmanager_author">Pkmmte Xeleon</string>
-    <string name="pkrequestmanager_web">https://github.com/pkmmte/PkRequestManager</string>
+    <string name="pkrequestmanager_author" translatable="false">Pkmmte Xeleon</string>
+    <string name="pkrequestmanager_web" translatable="false">https://github.com/pkmmte/PkRequestManager</string>
     <string name="pkrequestmanager_name">PkRequestManager</string>
     <string name="pkrequestmanager_desc">
 		<![CDATA[
         <b>PkRequestManager</b> is a helpful, yet simple, tool which makes it easy to load and send application icon requests for Android.
         ]]></string>
-    <string name="shapeview_author">Siyamed</string>
-    <string name="shapeview_web">https://github.com/siyamed/android-shape-imageview</string>
+    <string name="shapeview_author" translatable="false">Siyamed</string>
+    <string name="shapeview_web" translatable="false">https://github.com/siyamed/android-shape-imageview</string>
     <string name="shapeview_name">Android Shape Image View</string>
     <string name="shapeview_desc">
 		<![CDATA[
 		<b>Android Shape Image View</b> provides a set of custom shaped android imageview components, and a framework to define more shapes. Implements both shader and bitmap mask based image views.
 		]]></string>
-    <string name="picasso_author">Square</string>
-    <string name="picasso_name">Picasso</string>
+    <string name="picasso_author" translatable="false">Square</string>
+    <string name="picasso_name" translatable="false">Picasso</string>
     <string name="picasso_desc">
         <![CDATA[
         <b>Picasso</b> is a powerful image downloading and caching library for Android.
         ]]></string>
-    <string name="picasso_web">http://square.github.io/picasso/</string>
+    <string name="picasso_web" translatable="false">http://square.github.io/picasso/</string>
 
-    <string name="okhttp_author">Square</string>
-    <string name="okhttp_name">OkHttp</string>
+    <string name="okhttp_author" translatable="false">Square</string>
+    <string name="okhttp_name" translatable="false">OkHttp</string>
     <string name="okhttp_desc">
         <![CDATA[
         <b>OkHttp</b> is an HTTP and SPDY client for Android and Java applications.
         ]]></string>
-    <string name="okhttp_web">https://github.com/square/okhttp</string>
-    <string name="materialdrawer_author">Mike Penz</string>
-    <string name="materialdrawer_web">https://github.com/mikepenz/MaterialDrawer</string>
+    <string name="okhttp_web" translatable="false">https://github.com/square/okhttp</string>
+    <string name="materialdrawer_author" translatable="false">Mike Penz</string>
+    <string name="materialdrawer_web" translatable="false">https://github.com/mikepenz/MaterialDrawer</string>
     <string name="materialdrawer_name">MaterialDrawer</string>
     <string name="materialdrawer_desc">
         <![CDATA[
