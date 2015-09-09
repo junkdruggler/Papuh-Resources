@@ -16,14 +16,22 @@
     <string name="play_card_content">Join the Papuh Walls community for support and to share</string>
     <string name="section_home">Home</string>
     <string name="section_fav_walls">All Walls</string>
+    <string name="section_mustaches_walls">Mustaches</string>
+    <string name="section_nexus_walls">Nexus</string>
     <string name="section_original_walls">Original Walls</string>
     <string name="section_solid_walls">Solid Walls</string>
     <string name="section_rom_category">CUSTOM ROMS</string>
     <string name="section_aicp_walls">AICP</string>
     <string name="section_brokenos_walls">BrokenOS</string>
     <string name="section_du_walls">Dirty Unicorns</string>
+    <string name="section_eos_walls">EOS</string>
+    <string name="section_liquidsmooth_walls">Liquid Smooth</string>
     <string name="section_omni_walls">OmniROM</string>
+    <string name="section_pa_walls">Paranoid Android</string>
     <string name="section_pacrom_walls">PAC ROM</string>
+    <string name="section_slim_walls">Slim</string>
+    <string name="section_tesla_walls">Tesla</string>
+    <string name="section_validus_walls">Validus</string>
     <string name="section_aboutapp">About Papuh Walls</string>
     <string name="changelog">Changelog</string>
     <string name="changelog_dialog_title">Changelog &#38; Info</string>
@@ -31,13 +39,21 @@
     <!---DO NOT TRANSLATE-->
     <!---DO NOT TRANSLATE-->
     <string name="json_favwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/fav_wallpapers.json</string>
+    <string name="json_mustacheswalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/mustaches_wallpapers.json</string>
+    <string name="json_nexuswalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/nexus_wallpapers.json</string>
     <string name="json_originalwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/original_wallpapers.json</string>
     <string name="json_solidwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/solid_wallpapers.json</string>
     <string name="json_aicpwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/aicp_wallpapers.json</string>
     <string name="json_brokenoswalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/brokenos_wallpapers.json</string>
     <string name="json_duwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/du_wallpapers.json</string>
+    <string name="json_eoswalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/eos_wallpapers.json</string>
+    <string name="json_liquidsmoothwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/liquidsmooth_wallpapers.json</string>
     <string name="json_omniwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/omni_wallpapers.json</string>
+    <string name="json_pawalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/pa_wallpapers.json</string>
     <string name="json_pacromwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/pacrom_wallpapers.json</string>
+    <string name="json_slimwalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/slim_wallpapers.json</string>
+    <string name="json_teslawalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/tesla_wallpapers.json</string>
+    <string name="json_validuswalls_url" translatable="false">https://raw.githubusercontent.com/DirtyUnicorns/Papuh-Resources/master/validus_wallpapers.json</string>
     <!---DO NOT TRANSLATE-->
     <!---DO NOT TRANSLATE-->
 
@@ -46,7 +62,7 @@
     <string name="license_success">Thank you for purchasing our awesome icon pack. If you like this icon pack, don\'t forget to Rate and Write a review at Google Play Store.</string>
     <string name="walls_save_location" translatable="false">/Papuh/Wallpapers/</string>
     <string name="walls_prefix_name" translatable="false">Papuh_</string>
-    <string name="artsource_name">Papuh Walls</string>
+    <string name="artsource_name" translatable="false">Papuh Walls</string>
     <string name="artsource_desc">Material, Nature, Space, Spiritual You name it we have it!</string>
     <string name="muzei_settings">Muzei Settings</string>
     <string name="gplus">GOOGLE+</string>
@@ -118,37 +134,23 @@ Licensed under MIT License.</string>
     <string name="apache_license">Licensed under Apache 2.0 License.</string>
     <string name="mit_license">Licensed under MIT License.</string>
     <string name="libs_section_title">Libraries FOSS projects Used:</string>
-    <string name="fab_author">Future Simple - Melnykov</string>
+    <string name="fab_author" translatable="false">Future Simple - Melnykov</string>
     <string name="fab_web" translatable="false">https://github.com/futuresimple/android-floating-action-button</string>
-    <string name="fab_name">Floating Action Button</string>
+    <string name="fab_name" translatable="false">Floating Action Button</string>
     <string name="fab_desc">
 		<![CDATA[
         <b>Floating Action Button</b> is yet another library for drawing Material Design promoted actions.
         ]]></string>
     <string name="materialdialogs_author" translatable="false">Aidan Follestad</string>
     <string name="materialdialogs_web" translatable="false">https://github.com/afollestad/material­dialogs</string>
-    <string name="materialdialogs_name">Material Dialogs</string>
+    <string name="materialdialogs_name" translatable="false">Material Dialogs</string>
     <string name="materialdialogs_desc">
 		<![CDATA[
         <b>Material Dialogs</b> is a beautiful, "easy-to-use", and customizable dialogs API,  to use Material design themed dialogs across all versions of Android.
         ]]></string>
-    <string name="pkapplylauncher_author" translatable="false">Pkmmte Xeleon</string>
-    <string name="pkapplylauncher_web" translatable="false">https://github.com/pkmmte/PkApplyLauncher</string>
-    <string name="pkapplylauncher_name">PkApplyLauncher</string>
-    <string name="pkapplylauncher_desc">
-		<![CDATA[
-        <b>PkApplyLauncher</b> is a tool wrapper to make supporting launchers much simpler and organized. This mini "library" was developed to keep code as clean as possible while making perfect sense of it.
-        ]]></string>
-    <string name="pkrequestmanager_author" translatable="false">Pkmmte Xeleon</string>
-    <string name="pkrequestmanager_web" translatable="false">https://github.com/pkmmte/PkRequestManager</string>
-    <string name="pkrequestmanager_name">PkRequestManager</string>
-    <string name="pkrequestmanager_desc">
-		<![CDATA[
-        <b>PkRequestManager</b> is a helpful, yet simple, tool which makes it easy to load and send application icon requests for Android.
-        ]]></string>
     <string name="shapeview_author" translatable="false">Siyamed</string>
     <string name="shapeview_web" translatable="false">https://github.com/siyamed/android-shape-imageview</string>
-    <string name="shapeview_name">Android Shape Image View</string>
+    <string name="shapeview_name" translatable="false">Android Shape Image View</string>
     <string name="shapeview_desc">
 		<![CDATA[
 		<b>Android Shape Image View</b> provides a set of custom shaped android imageview components, and a framework to define more shapes. Implements both shader and bitmap mask based image views.
